@@ -1,0 +1,1 @@
+My password generator lets you choose how many passwords to generate, how many characters they should have, and you can choose among the following types of characters: uppercase letters, lowercase letters, numbers, and special characters. You can select the character types by clicking the small box next to each option
